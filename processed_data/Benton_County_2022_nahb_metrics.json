@@ -1,0 +1,16 @@
+{
+  "total_units": 17318,
+  "occupied_units": 16312,
+  "owner_occupied": 10842,
+  "renter_occupied": 5470,
+  "owner_housing_stock": 10922,
+  "rental_housing_stock": 5728,
+  "total_market_stock": 16650,
+  "market_vacant_owner": 80,
+  "market_vacant_rental": 258,
+  "excluded_vacant": 668,
+  "owner_vacancy_rate": 0.007324665812122322,
+  "rental_vacancy_rate": 0.04504189944134078,
+  "geography": "Benton_County",
+  "year": 2022
+}

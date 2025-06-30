@@ -1,0 +1,16 @@
+{
+  "total_units": 28614,
+  "occupied_units": 27028,
+  "owner_occupied": 13445,
+  "renter_occupied": 13583,
+  "owner_housing_stock": 13523,
+  "rental_housing_stock": 14292,
+  "total_market_stock": 27815,
+  "market_vacant_owner": 78,
+  "market_vacant_rental": 709,
+  "excluded_vacant": 799,
+  "owner_vacancy_rate": 0.005767950898469275,
+  "rental_vacancy_rate": 0.04960817240414218,
+  "geography": "St_Cloud_City_All",
+  "year": 2021
+}

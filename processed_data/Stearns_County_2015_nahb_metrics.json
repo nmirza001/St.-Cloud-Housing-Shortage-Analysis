@@ -1,0 +1,16 @@
+{
+  "total_units": 62632,
+  "occupied_units": 57265,
+  "owner_occupied": 40063,
+  "renter_occupied": 17202,
+  "owner_housing_stock": 40676,
+  "rental_housing_stock": 18407,
+  "total_market_stock": 59083,
+  "market_vacant_owner": 613,
+  "market_vacant_rental": 1205,
+  "excluded_vacant": 3549,
+  "owner_vacancy_rate": 0.0150703117317337,
+  "rental_vacancy_rate": 0.06546422556636063,
+  "geography": "Stearns_County",
+  "year": 2015
+}

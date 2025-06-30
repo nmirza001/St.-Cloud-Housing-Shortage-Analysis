@@ -1,0 +1,16 @@
+{
+  "total_units": 27860,
+  "occupied_units": 25979,
+  "owner_occupied": 14140,
+  "renter_occupied": 11839,
+  "owner_housing_stock": 14509,
+  "rental_housing_stock": 13148,
+  "total_market_stock": 27657,
+  "market_vacant_owner": 369,
+  "market_vacant_rental": 1309,
+  "excluded_vacant": 203,
+  "owner_vacancy_rate": 0.02543249017850989,
+  "rental_vacancy_rate": 0.09955886826893824,
+  "geography": "St_Cloud_City_All",
+  "year": 2009
+}

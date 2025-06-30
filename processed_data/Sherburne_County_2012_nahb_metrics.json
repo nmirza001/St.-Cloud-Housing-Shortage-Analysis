@@ -1,0 +1,16 @@
+{
+  "total_units": 32381,
+  "occupied_units": 29968,
+  "owner_occupied": 24575,
+  "renter_occupied": 5393,
+  "owner_housing_stock": 25124,
+  "rental_housing_stock": 5765,
+  "total_market_stock": 30889,
+  "market_vacant_owner": 549,
+  "market_vacant_rental": 372,
+  "excluded_vacant": 1492,
+  "owner_vacancy_rate": 0.02185161598471581,
+  "rental_vacancy_rate": 0.06452732003469211,
+  "geography": "Sherburne_County",
+  "year": 2012
+}

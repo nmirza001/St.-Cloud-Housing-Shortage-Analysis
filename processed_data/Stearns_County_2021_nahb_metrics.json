@@ -1,0 +1,16 @@
+{
+  "total_units": 65344,
+  "occupied_units": 60098,
+  "owner_occupied": 41102,
+  "renter_occupied": 18996,
+  "owner_housing_stock": 41381,
+  "rental_housing_stock": 19862,
+  "total_market_stock": 61243,
+  "market_vacant_owner": 279,
+  "market_vacant_rental": 866,
+  "excluded_vacant": 4101,
+  "owner_vacancy_rate": 0.0067422246924917235,
+  "rental_vacancy_rate": 0.04360084583627027,
+  "geography": "Stearns_County",
+  "year": 2021
+}

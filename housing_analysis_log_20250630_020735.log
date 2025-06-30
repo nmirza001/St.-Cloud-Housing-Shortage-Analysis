@@ -1,0 +1,77 @@
+2025-06-30 02:07:35,843 - INFO - ================================================================================
+2025-06-30 02:07:35,844 - INFO - ST. CLOUD HOUSING SHORTAGE ANALYSIS - RESEARCH LOG
+2025-06-30 02:07:35,844 - INFO - ================================================================================
+2025-06-30 02:07:35,844 - INFO - Methodology: NAHB Vacancy Rate Method (Brookings Institute)
+2025-06-30 02:07:35,844 - INFO - Research Question: Impact of Sherburne County inclusion on shortage estimates
+2025-06-30 02:07:35,844 - INFO - ================================================================================
+2025-06-30 02:07:35,844 - INFO - Research execution started
+2025-06-30 02:07:35,844 - INFO - Census API key loaded
+2025-06-30 02:07:35,844 - INFO - Data collection initialized with API key: b383b2f1...
+2025-06-30 02:07:35,844 - INFO - Directory structure created for data preservation
+2025-06-30 02:07:35,844 - INFO - Vacancy Rate Analyzer initialized
+2025-06-30 02:07:35,844 - INFO - Methodology: NAHB approach as described in Brookings Institute report
+2025-06-30 02:07:35,844 - INFO - Beginning geographic analysis sequence
+2025-06-30 02:07:35,844 - INFO - ================================================================================
+2025-06-30 02:07:35,844 - INFO - BEGINNING ANALYSIS: St_Cloud_MSA_Official
+2025-06-30 02:07:35,845 - INFO - Description: St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition
+2025-06-30 02:07:35,845 - INFO - ================================================================================
+2025-06-30 02:07:35,845 - INFO - Step 1: Collecting 2022 housing data
+2025-06-30 02:07:35,845 - INFO - API Request: 2022 data for St_Cloud_MSA_Official
+2025-06-30 02:07:35,845 - INFO - URL: https://api.census.gov/data/2022/acs/acs5
+2025-06-30 02:07:35,845 - INFO - Parameters: {'get': 'B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E', 'key': 'b383b2f1...', 'description': 'St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition', 'for': 'county:009,145', 'in': 'state:27', 'component_counties': ['Benton', 'Stearns']}
+2025-06-30 02:07:36,149 - ERROR - HTTP Error (attempt 1/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+MSA+%28Stearns+%26+Benton+Counties%29+-+Official+OMB+Definition&for=county%3A009%2C145&in=state%3A27&component_counties=Benton&component_counties=Stearns
+2025-06-30 02:07:37,445 - ERROR - HTTP Error (attempt 2/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+MSA+%28Stearns+%26+Benton+Counties%29+-+Official+OMB+Definition&for=county%3A009%2C145&in=state%3A27&component_counties=Benton&component_counties=Stearns
+2025-06-30 02:07:38,744 - ERROR - HTTP Error (attempt 3/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+MSA+%28Stearns+%26+Benton+Counties%29+-+Official+OMB+Definition&for=county%3A009%2C145&in=state%3A27&component_counties=Benton&component_counties=Stearns
+2025-06-30 02:07:38,744 - ERROR - No current data available for St_Cloud_MSA_Official
+2025-06-30 02:07:38,745 - INFO - ================================================================================
+2025-06-30 02:07:38,745 - INFO - BEGINNING ANALYSIS: Stearns_County
+2025-06-30 02:07:38,745 - INFO - Description: Stearns County - Primary MSA component
+2025-06-30 02:07:38,745 - INFO - ================================================================================
+2025-06-30 02:07:38,745 - INFO - Step 1: Collecting 2022 housing data
+2025-06-30 02:07:38,745 - INFO - API Request: 2022 data for Stearns_County
+2025-06-30 02:07:38,745 - INFO - URL: https://api.census.gov/data/2022/acs/acs5
+2025-06-30 02:07:38,745 - INFO - Parameters: {'get': 'B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E', 'key': 'b383b2f1...', 'description': 'Stearns County - Primary MSA component', 'for': 'county:145', 'in': 'state:27', 'component_counties': ['Stearns']}
+2025-06-30 02:07:39,035 - ERROR - HTTP Error (attempt 1/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Stearns+County+-+Primary+MSA+component&for=county%3A145&in=state%3A27&component_counties=Stearns
+2025-06-30 02:07:40,330 - ERROR - HTTP Error (attempt 2/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Stearns+County+-+Primary+MSA+component&for=county%3A145&in=state%3A27&component_counties=Stearns
+2025-06-30 02:07:41,625 - ERROR - HTTP Error (attempt 3/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Stearns+County+-+Primary+MSA+component&for=county%3A145&in=state%3A27&component_counties=Stearns
+2025-06-30 02:07:41,625 - ERROR - No current data available for Stearns_County
+2025-06-30 02:07:41,625 - INFO - ================================================================================
+2025-06-30 02:07:41,625 - INFO - BEGINNING ANALYSIS: Benton_County
+2025-06-30 02:07:41,626 - INFO - Description: Benton County - Secondary MSA component
+2025-06-30 02:07:41,626 - INFO - ================================================================================
+2025-06-30 02:07:41,626 - INFO - Step 1: Collecting 2022 housing data
+2025-06-30 02:07:41,626 - INFO - API Request: 2022 data for Benton_County
+2025-06-30 02:07:41,626 - INFO - URL: https://api.census.gov/data/2022/acs/acs5
+2025-06-30 02:07:41,626 - INFO - Parameters: {'get': 'B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E', 'key': 'b383b2f1...', 'description': 'Benton County - Secondary MSA component', 'for': 'county:009', 'in': 'state:27', 'component_counties': ['Benton']}
+2025-06-30 02:07:41,914 - ERROR - HTTP Error (attempt 1/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Benton+County+-+Secondary+MSA+component&for=county%3A009&in=state%3A27&component_counties=Benton
+2025-06-30 02:07:43,218 - ERROR - HTTP Error (attempt 2/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Benton+County+-+Secondary+MSA+component&for=county%3A009&in=state%3A27&component_counties=Benton
+2025-06-30 02:07:44,515 - ERROR - HTTP Error (attempt 3/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Benton+County+-+Secondary+MSA+component&for=county%3A009&in=state%3A27&component_counties=Benton
+2025-06-30 02:07:44,516 - ERROR - No current data available for Benton_County
+2025-06-30 02:07:44,516 - INFO - ================================================================================
+2025-06-30 02:07:44,516 - INFO - BEGINNING ANALYSIS: Sherburne_County
+2025-06-30 02:07:44,516 - INFO - Description: Sherburne County - Adjacent to MSA
+2025-06-30 02:07:44,516 - INFO - ================================================================================
+2025-06-30 02:07:44,516 - INFO - Step 1: Collecting 2022 housing data
+2025-06-30 02:07:44,517 - INFO - API Request: 2022 data for Sherburne_County
+2025-06-30 02:07:44,517 - INFO - URL: https://api.census.gov/data/2022/acs/acs5
+2025-06-30 02:07:44,517 - INFO - Parameters: {'get': 'B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E', 'key': 'b383b2f1...', 'description': 'Sherburne County - Adjacent to MSA', 'for': 'county:141', 'in': 'state:27', 'component_counties': ['Sherburne']}
+2025-06-30 02:07:44,804 - ERROR - HTTP Error (attempt 1/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Sherburne+County+-+Adjacent+to+MSA&for=county%3A141&in=state%3A27&component_counties=Sherburne
+2025-06-30 02:07:46,099 - ERROR - HTTP Error (attempt 2/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Sherburne+County+-+Adjacent+to+MSA&for=county%3A141&in=state%3A27&component_counties=Sherburne
+2025-06-30 02:07:47,400 - ERROR - HTTP Error (attempt 3/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Sherburne+County+-+Adjacent+to+MSA&for=county%3A141&in=state%3A27&component_counties=Sherburne
+2025-06-30 02:07:47,400 - ERROR - No current data available for Sherburne_County
+2025-06-30 02:07:47,400 - INFO - ================================================================================
+2025-06-30 02:07:47,401 - INFO - BEGINNING ANALYSIS: St_Cloud_City_All
+2025-06-30 02:07:47,401 - INFO - Description: St. Cloud City - All county portions
+2025-06-30 02:07:47,401 - INFO - ================================================================================
+2025-06-30 02:07:47,401 - INFO - Step 1: Collecting 2022 housing data
+2025-06-30 02:07:47,401 - INFO - API Request: 2022 data for St_Cloud_City_All
+2025-06-30 02:07:47,401 - INFO - URL: https://api.census.gov/data/2022/acs/acs5
+2025-06-30 02:07:47,401 - INFO - Parameters: {'get': 'B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E', 'key': 'b383b2f1...', 'description': 'St. Cloud City - All county portions', 'for': 'place:56896', 'in': 'state:27', 'component_counties': ['Stearns', 'Benton', 'Sherburne']}
+2025-06-30 02:07:47,694 - ERROR - HTTP Error (attempt 1/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+City+-+All+county+portions&for=place%3A56896&in=state%3A27&component_counties=Stearns&component_counties=Benton&component_counties=Sherburne
+2025-06-30 02:07:48,991 - ERROR - HTTP Error (attempt 2/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+City+-+All+county+portions&for=place%3A56896&in=state%3A27&component_counties=Stearns&component_counties=Benton&component_counties=Sherburne
+2025-06-30 02:07:50,283 - ERROR - HTTP Error (attempt 3/3): 400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+City+-+All+county+portions&for=place%3A56896&in=state%3A27&component_counties=Stearns&component_counties=Benton&component_counties=Sherburne
+2025-06-30 02:07:50,284 - ERROR - No current data available for St_Cloud_City_All
+2025-06-30 02:07:50,287 - INFO - API call log saved: methodology_logs/api_calls_20250630_020750.json
+2025-06-30 02:07:50,287 - INFO - ================================================================================
+2025-06-30 02:07:50,287 - INFO - RESEARCH EXECUTION COMPLETE
+2025-06-30 02:07:50,287 - INFO - ================================================================================

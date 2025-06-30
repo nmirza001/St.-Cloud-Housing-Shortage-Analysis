@@ -1,0 +1,95 @@
+[
+  {
+    "timestamp": "2025-06-30T02:07:35.845074",
+    "year": 2022,
+    "geography": "St_Cloud_MSA_Official",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+      "for": "county:009,145",
+      "in": "state:27",
+      "component_counties": [
+        "Benton",
+        "Stearns"
+      ]
+    },
+    "error": "400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+MSA+%28Stearns+%26+Benton+Counties%29+-+Official+OMB+Definition&for=county%3A009%2C145&in=state%3A27&component_counties=Benton&component_counties=Stearns",
+    "success": false
+  },
+  {
+    "timestamp": "2025-06-30T02:07:38.745418",
+    "year": 2022,
+    "geography": "Stearns_County",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "description": "Stearns County - Primary MSA component",
+      "for": "county:145",
+      "in": "state:27",
+      "component_counties": [
+        "Stearns"
+      ]
+    },
+    "error": "400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Stearns+County+-+Primary+MSA+component&for=county%3A145&in=state%3A27&component_counties=Stearns",
+    "success": false
+  },
+  {
+    "timestamp": "2025-06-30T02:07:41.626139",
+    "year": 2022,
+    "geography": "Benton_County",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "description": "Benton County - Secondary MSA component",
+      "for": "county:009",
+      "in": "state:27",
+      "component_counties": [
+        "Benton"
+      ]
+    },
+    "error": "400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Benton+County+-+Secondary+MSA+component&for=county%3A009&in=state%3A27&component_counties=Benton",
+    "success": false
+  },
+  {
+    "timestamp": "2025-06-30T02:07:44.517116",
+    "year": 2022,
+    "geography": "Sherburne_County",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "description": "Sherburne County - Adjacent to MSA",
+      "for": "county:141",
+      "in": "state:27",
+      "component_counties": [
+        "Sherburne"
+      ]
+    },
+    "error": "400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=Sherburne+County+-+Adjacent+to+MSA&for=county%3A141&in=state%3A27&component_counties=Sherburne",
+    "success": false
+  },
+  {
+    "timestamp": "2025-06-30T02:07:47.401258",
+    "year": 2022,
+    "geography": "St_Cloud_City_All",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "description": "St. Cloud City - All county portions",
+      "for": "place:56896",
+      "in": "state:27",
+      "component_counties": [
+        "Stearns",
+        "Benton",
+        "Sherburne"
+      ]
+    },
+    "error": "400 Client Error:  for url: https://api.census.gov/data/2022/acs/acs5?get=B25001_001E%2CB25003_001E%2CB25003_002E%2CB25003_003E%2CB25004_001E%2CB25004_002E%2CB25004_003E%2CB25004_004E%2CB25004_005E%2CB25004_006E%2CB25004_007E%2CB25004_008E%2CB25002_002E%2CB25002_003E&key=b383b2f1edc06d405781cc24a7250c56ccf208c2&description=St.+Cloud+City+-+All+county+portions&for=place%3A56896&in=state%3A27&component_counties=Stearns&component_counties=Benton&component_counties=Sherburne",
+    "success": false
+  }
+]

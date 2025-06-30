@@ -1,0 +1,16 @@
+{
+  "total_units": 79407,
+  "occupied_units": 73421,
+  "owner_occupied": 50579,
+  "renter_occupied": 22842,
+  "owner_housing_stock": 51271,
+  "rental_housing_stock": 24055,
+  "total_market_stock": 75326,
+  "market_vacant_owner": 692,
+  "market_vacant_rental": 1213,
+  "excluded_vacant": 4081,
+  "owner_vacancy_rate": 0.013496908583799809,
+  "rental_vacancy_rate": 0.05042610683849511,
+  "geography": "St_Cloud_MSA_Official",
+  "year": 2016
+}

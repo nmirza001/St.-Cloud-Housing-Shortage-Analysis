@@ -1,0 +1,1952 @@
+[
+  {
+    "timestamp": "2025-06-30T02:10:01.683008",
+    "year": 2022,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:02.646784",
+    "year": 2009,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2009/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:03.484458",
+    "year": 2010,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2010/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:04.378329",
+    "year": 2011,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2011/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:05.300292",
+    "year": 2012,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2012/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:06.222271",
+    "year": 2013,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:07.042466",
+    "year": 2014,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:07.963871",
+    "year": 2015,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:08.886632",
+    "year": 2016,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:09.696887",
+    "year": 2017,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:10.496912",
+    "year": 2018,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:11.337336",
+    "year": 2019,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:12.149407",
+    "year": 2020,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2020/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:13.083150",
+    "year": 2021,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2021/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:14.008904",
+    "year": 2013,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:14.716659",
+    "year": 2014,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:15.418526",
+    "year": 2015,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:16.155478",
+    "year": 2016,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:16.873394",
+    "year": 2017,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:17.588822",
+    "year": 2018,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:18.506292",
+    "year": 2019,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:19.433671",
+    "year": 2015,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:20.322141",
+    "year": 2016,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:21.172736",
+    "year": 2017,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:21.992231",
+    "year": 2018,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:22.811268",
+    "year": 2019,
+    "geography": "St_Cloud_MSA_Official",
+    "description": "St. Cloud MSA (Stearns & Benton Counties) - Official OMB Definition",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009,145",
+      "in": "state:27"
+    },
+    "response_size": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:23.536398",
+    "year": 2022,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:24.434397",
+    "year": 2009,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2009/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:25.261728",
+    "year": 2010,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2010/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:26.090514",
+    "year": 2011,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2011/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:27.011720",
+    "year": 2012,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2012/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:27.932874",
+    "year": 2013,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:28.750650",
+    "year": 2014,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:29.571306",
+    "year": 2015,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:30.388587",
+    "year": 2016,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:31.209441",
+    "year": 2017,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:32.027347",
+    "year": 2018,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:32.848539",
+    "year": 2019,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:33.666347",
+    "year": 2020,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2020/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:34.484817",
+    "year": 2021,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2021/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:35.307548",
+    "year": 2013,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:36.021286",
+    "year": 2014,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:36.737561",
+    "year": 2015,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:37.456189",
+    "year": 2016,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:38.278735",
+    "year": 2017,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:39.092016",
+    "year": 2018,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:40.016709",
+    "year": 2019,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:40.936757",
+    "year": 2015,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:41.654280",
+    "year": 2016,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:42.372141",
+    "year": 2017,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:43.189109",
+    "year": 2018,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:44.009013",
+    "year": 2019,
+    "geography": "Stearns_County",
+    "description": "Stearns County - Primary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:145",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:44.731148",
+    "year": 2022,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:45.639667",
+    "year": 2009,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2009/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:46.331496",
+    "year": 2010,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2010/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:47.129079",
+    "year": 2011,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2011/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:47.900816",
+    "year": 2012,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2012/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:48.718670",
+    "year": 2013,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:49.584504",
+    "year": 2014,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:50.352577",
+    "year": 2015,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:51.150553",
+    "year": 2016,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:52.098823",
+    "year": 2017,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:52.815140",
+    "year": 2018,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:53.525943",
+    "year": 2019,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:54.259337",
+    "year": 2020,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2020/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:54.983407",
+    "year": 2021,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2021/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:55.779293",
+    "year": 2013,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:56.495666",
+    "year": 2014,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:57.334834",
+    "year": 2015,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:58.036796",
+    "year": 2016,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:58.751431",
+    "year": 2017,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:10:59.433304",
+    "year": 2018,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:00.126920",
+    "year": 2019,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:00.900425",
+    "year": 2015,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:01.616210",
+    "year": 2016,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:02.339079",
+    "year": 2017,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:03.045162",
+    "year": 2018,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:03.767616",
+    "year": 2019,
+    "geography": "Benton_County",
+    "description": "Benton County - Secondary MSA component",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:009",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:04.485835",
+    "year": 2022,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:05.203528",
+    "year": 2009,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2009/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:06.019245",
+    "year": 2010,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2010/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:06.742743",
+    "year": 2011,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2011/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:07.561768",
+    "year": 2012,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2012/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:08.381669",
+    "year": 2013,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:09.082312",
+    "year": 2014,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:09.814651",
+    "year": 2015,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:10.530633",
+    "year": 2016,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:11.224108",
+    "year": 2017,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:11.967359",
+    "year": 2018,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:12.682953",
+    "year": 2019,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:13.370944",
+    "year": 2020,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2020/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:14.117994",
+    "year": 2021,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2021/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:14.826088",
+    "year": 2013,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:15.549670",
+    "year": 2014,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:16.266702",
+    "year": 2015,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:16.982760",
+    "year": 2016,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:17.698541",
+    "year": 2017,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:18.412736",
+    "year": 2018,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:19.235834",
+    "year": 2019,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:19.952361",
+    "year": 2015,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:20.770533",
+    "year": 2016,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:21.483626",
+    "year": 2017,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:22.206386",
+    "year": 2018,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:22.919936",
+    "year": 2019,
+    "geography": "Sherburne_County",
+    "description": "Sherburne County - Adjacent to MSA",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "county:141",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:23.604899",
+    "year": 2022,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2022/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:24.559861",
+    "year": 2009,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2009/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:25.381643",
+    "year": 2010,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2010/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:26.294834",
+    "year": 2011,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2011/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:27.107801",
+    "year": 2012,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2012/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:28.040476",
+    "year": 2013,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:28.962450",
+    "year": 2014,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:29.887008",
+    "year": 2015,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:30.697577",
+    "year": 2016,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:31.525971",
+    "year": 2017,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:32.342971",
+    "year": 2018,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:33.263730",
+    "year": 2019,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:34.122947",
+    "year": 2020,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2020/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:34.972930",
+    "year": 2021,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2021/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:35.929489",
+    "year": 2013,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2013/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:36.746635",
+    "year": 2014,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2014/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:37.582210",
+    "year": 2015,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:38.589340",
+    "year": 2016,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:39.511763",
+    "year": 2017,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:40.944073",
+    "year": 2018,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:41.866636",
+    "year": 2019,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:42.679217",
+    "year": 2015,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2015/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:43.449067",
+    "year": 2016,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2016/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:44.191741",
+    "year": 2017,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2017/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:44.936105",
+    "year": 2018,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2018/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  },
+  {
+    "timestamp": "2025-06-30T02:11:45.752003",
+    "year": 2019,
+    "geography": "St_Cloud_City_All",
+    "description": "St. Cloud City - All county portions",
+    "url": "https://api.census.gov/data/2019/acs/acs5",
+    "census_parameters": {
+      "get": "B25001_001E,B25003_001E,B25003_002E,B25003_003E,B25004_001E,B25004_002E,B25004_003E,B25004_004E,B25004_005E,B25004_006E,B25004_007E,B25004_008E,B25002_002E,B25002_003E",
+      "key": "b383b2f1...",
+      "for": "place:56896",
+      "in": "state:27"
+    },
+    "response_size": 2,
+    "success": true
+  }
+]
